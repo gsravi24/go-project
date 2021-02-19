@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
-	"github.com/ravindrags24/sto-repo/go-project/pkg"
+	"github.com/gsravi24/go-project/pkg/handlers"
 )
 
 const portNumber = ":8080"

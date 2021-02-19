@@ -2,7 +2,7 @@ package main
 
 import (
 	"net/http"
-	"github.com/ravindrags24/sto-repo/go-project/pkg/render"
+	"github.com/gsravi24/go-project/pkg/render"
 )
 
 // Home is the home page handler.

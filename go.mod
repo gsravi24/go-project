@@ -2,4 +2,8 @@ module github.com/gsravi24/go-project
 
 go 1.16
 
-require github.com/bmizerany/pat v0.0.0-20170815010413-6226ea591a40 // indirect
+require (
+	github.com/alexedwards/scs/v2 v2.4.0 // indirect
+	github.com/go-chi/chi v1.5.2
+	github.com/justinas/nosurf v1.1.1 // indirect
+)
